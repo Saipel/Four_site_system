@@ -2,7 +2,7 @@ import numpy as np
 
 from ham_and_array import *
 
-
+##
 def double_array(array = None):
     a = np.random.rand(6, 6)
     print(a)
